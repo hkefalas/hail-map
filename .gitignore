@@ -1,0 +1,5 @@
+# Ignore raw binary data and system files
+radar_images/raw/
+__pycache__/
+.env
+.DS_Store
